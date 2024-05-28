@@ -1,0 +1,5 @@
+CVU;Numero_de_transaccion;Importe;Tipo_de_transaccion
+123456789;1;100.00;D
+234567890;2;200.00;C
+345678901;3;150.00;D
+456789012;4;300.00;C
